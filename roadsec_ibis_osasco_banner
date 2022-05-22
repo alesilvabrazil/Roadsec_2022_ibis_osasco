@@ -1,0 +1,8 @@
+let maiorFestivalH4cker = "Roadsec";
+let queroEconomizar = true;
+
+if(maiorFestivalH4cker=="Roadsec" && queroEconomizar){
+console.log("Vá para ibis e ibis Budget Osasco")
+} else {
+console.log('O que está esperando? Se inscreva já!')
+}
